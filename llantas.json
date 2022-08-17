@@ -57,42 +57,42 @@
         },
         {
             "clasificacion": "AT",
-            "imagen":  "assets/img/Llantas/A.T/Austone SP302.jpg",
+            "imagen":  "assets/img/Llantas/A.T/Austone-SP302.jpg",
             "nombre": "AUSTONE SP302"
         },
         {
             "clasificacion": "AT",
-            "imagen":  "assets/img/Llantas/A.T/Royal Black AT.jpg",
+            "imagen":  "assets/img/Llantas/A.T/Royal-Black-AT.jpg",
             "nombre": "ROYAL BLACK AT"
         },
         {
             "clasificacion": "AT",
-            "imagen":  "assets/img/Llantas/A.T/Maxtrek SU-800.jpg",
+            "imagen":  "assets/img/Llantas/A.T/Maxtrek-SU-800.jpg",
             "nombre": "MAXTREK SU-800"
         },
         {
             "clasificacion": "AT",
-            "imagen":  "assets/img/Llantas/A.T/Antares SMT AT.jpg",
+            "imagen":  "assets/img/Llantas/A.T/Antares-SMT-AT.jpg",
             "nombre": "ANTARES SMT AT"
         },
         {
             "clasificacion": "AT",
-            "imagen":  "assets/img/Llantas/A.T/Saferich FRD86 AT.jpg",
+            "imagen":  "assets/img/Llantas/A.T/Saferich-FRD86-AT.jpg",
             "nombre": "SAFERICH FRD86 AT"
         },
         {
             "clasificacion": "AT",
-            "imagen":  "assets/img/Llantas/A.T/Rapid Ecolander AT.jpg", 
+            "imagen":  "assets/img/Llantas/A.T/Rapid-Ecolander-AT.jpg", 
             "nombre": "RAPID ECOLANDER AT"
         },
         {
             "clasificacion": "AT",
-            "imagen":  "assets/img/Llantas/A.T/Agate AG 703.jpg",
+            "imagen":  "assets/img/Llantas/A.T/Agate-AG-703.jpg",
             "nombre": "AGATE AG 703"
         },
         {
             "clasificacion": "AT",
-            "imagen":  "assets/img/Llantas/A.T/Double Star AT W01.jpg",
+            "imagen":  "assets/img/Llantas/A.T/Double-Star-AT-W01.jpg",
             "nombre": "DOUBLE STAR AT W01"
         },
         {
@@ -102,7 +102,7 @@
         },
         {
             "clasificacion": "AT",
-            "imagen":  "assets/img/Llantas/A.T/Maxxis AT980.jpg",
+            "imagen":  "assets/img/Llantas/A.T/Maxxis-AT980.jpg",
             "nombre": "MAXXIS AT980"
         },
         {
@@ -122,7 +122,7 @@
         },
         {
             "clasificacion": "MT",
-            "imagen": "assets/img/Llantas/M.T/agate ag.jpg",
+            "imagen": "assets/img/Llantas/M.T/agate-ag.jpg",
             "nombre": "AGATE MT703"
         }
     ]
