@@ -1,0 +1,145 @@
+{
+    "llantas": [
+        {
+            "clasificacion": "HT",
+            "imagen": "assets/img/Llantas/H.T/Maxtrek-MAXIMUS-M1.jpg",
+            "nombre": "MAXTREK MAXIMUS M1"
+        },
+        {
+            "clasificacion": "HT",
+            "imagen": "assets/img/Llantas/H.T/Maxtrek-Sierra-S6.jpg",
+            "nombre": "MAXTREK SIERRA S6"
+        },
+        {
+            "clasificacion": "HT",
+            "imagen": "assets/img/Llantas/H.T/Maxtrek-SU830.jpg",
+            "nombre": "MAXTREK SU830"
+        },
+        {
+            "clasificacion": "HT",
+            "imagen": "assets/img/Llantas/H.T/x200-Austone-SP-6-Athena.jpg",
+            "nombre": "AUSTONE SP-6"
+        },
+        {
+            "clasificacion": "HT",
+            "imagen":  "assets/img/Llantas/H.T/antares-tires-ingens-a1_1.jpg",
+            "nombre": "ANTARES INGENS A1"
+        },
+        {
+            "clasificacion": "HT",
+            "imagen":  "assets/img/Llantas/H.T/llanta_agate_ag_at703_9.jpg",
+            "nombre": "AGATE AG-703"
+        },
+        {
+            "clasificacion": "HT",
+            "imagen":  "assets/img/Llantas/H.T/llanta_agate_ag208_2_1.jpg",
+            "nombre": "AGATE AG-208"
+        },
+        {
+            "clasificacion": "HT",
+            "imagen":  "assets/img/Llantas/H.T/Falken-SINCERA-SN832i-lateral-scaled.jpg",
+            "nombre": "FALKEN SN-832i"
+        },
+        {
+            "clasificacion": "HT",
+            "imagen":  "assets/img/Llantas/H.T/x200-Rapid-p609.jpg",
+            "nombre": "RAPID P609"
+        },
+        {
+            "clasificacion": "HT",
+            "imagen":  "assets/img/Llantas/H.T/roadx-rxmotion-u11_1.l.png",
+            "nombre": "ROADX RX MOTION"
+        },
+        {
+            "clasificacion": "HT",
+            "imagen":  "assets/img/Llantas/H.T/770.jpg",
+            "nombre": "MAXXIS BRAVO HT770"
+        },
+        {
+            "clasificacion": "AT",
+            "imagen":  "assets/img/Llantas/A.T/Austone SP302.jpg",
+            "nombre": "AUSTONE SP302"
+        },
+        {
+            "clasificacion": "AT",
+            "imagen":  "assets/img/Llantas/A.T/Royal Black AT.jpg",
+            "nombre": "ROYAL BLACK AT"
+        },
+        {
+            "clasificacion": "AT",
+            "imagen":  "assets/img/Llantas/A.T/Maxtrek SU-800.jpg",
+            "nombre": "MAXTREK SU-800"
+        },
+        {
+            "clasificacion": "AT",
+            "imagen":  "assets/img/Llantas/A.T/Antares SMT AT.jpg",
+            "nombre": "ANTARES SMT AT"
+        },
+        {
+            "clasificacion": "AT",
+            "imagen":  "assets/img/Llantas/A.T/Saferich FRD86 AT.jpg",
+            "nombre": "SAFERICH FRD86 AT"
+        },
+        {
+            "clasificacion": "AT",
+            "imagen":  "assets/img/Llantas/A.T/Rapid Ecolander AT.jpg", 
+            "nombre": "RAPID ECOLANDER AT"
+        },
+        {
+            "clasificacion": "AT",
+            "imagen":  "assets/img/Llantas/A.T/Agate AG 703.jpg",
+            "nombre": "AGATE AG 703"
+        },
+        {
+            "clasificacion": "AT",
+            "imagen":  "assets/img/Llantas/A.T/Double Star AT W01.jpg",
+            "nombre": "DOUBLE STAR AT W01"
+        },
+        {
+            "clasificacion": "AT",
+            "imagen":  "assets/img/Llantas/A.T/Maxxis AT771.jpg",
+            "nombre": "MAXXIS AT771"
+        },
+        {
+            "clasificacion": "AT",
+            "imagen":  "assets/img/Llantas/A.T/Maxxis AT980.jpg",
+            "nombre": "MAXXIS AT980"
+        },
+        {
+            "clasificacion": "MT",
+            "imagen": "assets/img/Llantas/M.T/maxtrek-mud-trac-medium.jpg",
+            "nombre": "MAXTREK MUD TRACK MT"
+        },
+        {
+            "clasificacion": "MT",
+            "imagen": "assets/img/Llantas/M.T/antares-tires-deep-digger_1.jpg",
+            "nombre": "ANTARES DEEP DIGGER MT"
+        },
+        {
+            "clasificacion": "MT",
+            "imagen": "assets/img/Llantas/M.T/tyre-image-MT-764.png",
+            "nombre": "MAXXIS MT 764 BIGHORN"
+        },
+        {
+            "clasificacion": "MT",
+            "imagen": "assets/img/Llantas/M.T/agate ag.jpg",
+            "nombre": "AGATE MT703"
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
